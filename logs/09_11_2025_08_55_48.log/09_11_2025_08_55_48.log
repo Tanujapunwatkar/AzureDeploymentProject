@@ -1,0 +1,4 @@
+[ 2025-09-11 08:55:48,177 ] 97 werkzeug - WARNING -  * Debugger is active! 
+[ 2025-09-11 08:55:48,182 ] 97 werkzeug - INFO -  * Debugger PIN: 818-335-825 
+[ 2025-09-11 08:55:53,057 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 08:55:53] "GET /predictdata HTTP/1.1" 200 - 
+[ 2025-09-11 08:55:57,773 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 08:55:57] "GET /predictdata HTTP/1.1" 200 - 

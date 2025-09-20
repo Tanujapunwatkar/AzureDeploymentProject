@@ -1,0 +1,16 @@
+[ 2025-09-11 07:45:58,387 ] 97 werkzeug - WARNING -  * Debugger is active! 
+[ 2025-09-11 07:45:58,387 ] 97 werkzeug - INFO -  * Debugger PIN: 818-335-825 
+[ 2025-09-11 07:46:19,981 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:46:19] "GET / HTTP/1.1" 200 - 
+[ 2025-09-11 07:46:20,084 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:46:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - 
+[ 2025-09-11 07:46:21,950 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:46:21] "[33mGET /form.html HTTP/1.1[0m" 404 - 
+[ 2025-09-11 07:46:34,384 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:46:34] "GET /predictdata HTTP/1.1" 200 - 
+[ 2025-09-11 07:47:21,228 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:47:21] "GET /predictdata HTTP/1.1" 200 - 
+[ 2025-09-11 07:47:25,436 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:47:25] "[33mGET /form.html HTTP/1.1[0m" 404 - 
+[ 2025-09-11 07:47:28,719 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:47:28] "GET / HTTP/1.1" 200 - 
+[ 2025-09-11 07:47:43,020 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:47:43] "GET /predictdata HTTP/1.1" 200 - 
+[ 2025-09-11 07:48:12,844 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:48:12] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 - 
+[ 2025-09-11 07:48:13,099 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:48:13] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - 
+[ 2025-09-11 07:48:13,148 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:48:13] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - 
+[ 2025-09-11 07:48:13,235 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:48:13] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=UdFO1HhxdzdDv47H9o6K HTTP/1.1" 200 - 
+[ 2025-09-11 07:48:13,254 ] 97 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2025 07:48:13] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - 
+[ 2025-09-11 07:51:28,942 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\tanuj\\OneDrive\\Desktop\\end-end-MLproject\\src\\components\\data_transformation.py', reloading 
